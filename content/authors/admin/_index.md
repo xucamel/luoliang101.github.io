@@ -1,9 +1,10 @@
 ---
 # Display name
-title: 许骆良 
+title: 许骆良 Luoliang Xu
 
 # Name pronunciation (optional)
-name_pronunciation: Luoliang Xu
+name_pronunciation: 
+
 
 # Full name (for SEO)
 first_name: Luoliang
