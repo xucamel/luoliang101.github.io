@@ -26,7 +26,7 @@ organizations:
     url: https://www.wisc.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research includes fisheries stock assessment and management
+bio: My research includes fisheries stock assessment and management.
 
 # Interests to show in About widget
 interests:
